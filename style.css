@@ -78,7 +78,8 @@ hr {
 
 @media (max-width: 450px) {
     section {
-        font-size: 15px;
+        font-size: 14px;
+        padding: 3% 10%;
     }
 
     .big-heading {
